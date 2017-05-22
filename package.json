@@ -1,0 +1,10 @@
+{
+  "name": "sentiment-analysis-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "sentiment-analysis": "^0.1.2"
+  },
+  "devDependencies": {
+    "browserify": "^14.3.0"
+  }
+}
